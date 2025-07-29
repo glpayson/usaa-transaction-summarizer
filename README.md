@@ -9,7 +9,6 @@ A Python command-line tool that analyzes USAA checking account CSV exports to pr
 - 📈 **Spending Trends** - Track average monthly spending and identify your top vendors  
 - 🧹 **Smart Data Cleaning** - Automatically standardizes merchant names and handles pending transactions
 - 📁 **CSV Export** - Export reports to CSV files for Excel/Google Sheets analysis
-- 🎯 **Zero Dependencies** - Uses only pandas and Python standard library
 
 ## Example Output
 
