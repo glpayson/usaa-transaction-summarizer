@@ -27,9 +27,10 @@ Detailed merchant breakdown for each month:
 
     January 2025 - Total spent: $X,XXX.XX
     --------------------------------------------------
-      Uber Eats                      $   XXX.XX (56x)  35.2%
-      Rent Payment                   $ X,XXX.XX (1x)   24.0%
-      Credit Card Payment            $   XXX.XX (2x)   15.7%
-      ... and 15 others              $   XXX.XX         25.1%
+      Rent Payment                   $ X,XXX.XX (1x)   38.5%
+      Credit Card Payment            $   XXX.XX (2x)   22.3%
+      Utilities                      $   XXX.XX (3x)    8.7%
+      Grocery Store                  $   XXX.XX (12x)   7.2%
+      ... and 15 others              $   XXX.XX         23.3%
 
 Perfect for tracking spending habits, budgeting, and understanding where your money goes each month.
